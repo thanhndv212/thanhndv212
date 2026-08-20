@@ -19,25 +19,25 @@ I'm a robotics engineer and researcher passionate about **robot system identific
 
 ## 📌 Pinned Repositories
 
-### 🤖 [figaroh-plus](https://github.com/thanhndv212/figaroh-plus) ⭐ 54
+### 🤖 [figaroh-plus](https://github.com/thanhndv212/figaroh-plus)
 > A system identification framework for robots — manipulators, mobile manipulators, and humanoids.  
 Topics: `calibration` `humanoid` `identification` `sim-to-real` `sysid`
 
-### 📚 [figaroh-examples](https://github.com/thanhndv212/figaroh-examples) ⭐ 15
+### 📚 [figaroh-examples](https://github.com/thanhndv212/figaroh-examples)
 > Comprehensive examples and tutorials for the FIGAROH-PLUS library.  
 Topics: `sysid` `tutorials`
 
-### 🔄 [robot_format_converter](https://github.com/thanhndv212/robot_format_converter) ⭐ 4
+### 🔄 [robot_format_converter](https://github.com/thanhndv212/robot_format_converter)
 > A tool that converts common robot modeling formats (URDF, SDF, …) to a unified schema.
 
-### 🦾 [soarm_mjlab](https://github.com/thanhndv212/soarm_mjlab) ⭐ 2
+### 🦾 [soarm_mjlab](https://github.com/thanhndv212/soarm_mjlab)
 > RL training of the SO-ARM100 manipulator in MuJoCo via mjlab.  
 Topics: `reinforcement-learning` `manipulation` `mjlab` `soarm`
 
-### 🚶 [walka_rl_mjlab](https://github.com/thanhndv212/walka_rl_mjlab) ⭐ 2
+### 🚶 [walka_rl_mjlab](https://github.com/thanhndv212/walka_rl_mjlab)
 > RL training of the Walka biped humanoid in MuJoCo via mjlab.
 
-### 🚁 [drones-sim](https://github.com/thanhndv212/drones-sim) ⭐ 1
+### 🚁 [drones-sim](https://github.com/thanhndv212/drones-sim)
 > Simple quadcopter simulator in Python.
 
 ---
