@@ -1,6 +1,6 @@
-# Hi there, I'm Thanh 👋
+# Hi there, I'm Thanh
 
-I'm a robotics engineer and researcher passionate about **robot system identification**, **reinforcement learning**, and **simulation-to-real transfer**. I build tools and frameworks that help bridge the gap between robot models and real hardware.
+I'm a robotics engineer and researcher passionate about **robot manipulation**, **robot system identification**, **reinforcement learning**, and **simulation-to-real transfer**. I build tools and frameworks that help bridge the gap between robot models and real hardware.
 
 ---
 
@@ -20,25 +20,24 @@ I'm a robotics engineer and researcher passionate about **robot system identific
 
 ## Highlighted works
 
-### 🤖 [figaroh-plus](https://github.com/thanhndv212/figaroh-plus)
+### [figaroh-plus](https://github.com/thanhndv212/figaroh-plus)
 > A system identification framework for robots — manipulators, mobile manipulators, and humanoids.  
 
-### 📚 [figaroh-examples](https://github.com/thanhndv212/figaroh-examples)
+### [figaroh-examples](https://github.com/thanhndv212/figaroh-examples)
 > Comprehensive examples and tutorials for the FIGAROH-PLUS library.  
 
-### 🦾 [soarm-ws](https://github.com/thanhndv212/soarm-ws)
+### [soarm-ws](https://github.com/thanhndv212/soarm-ws)
 > Monorepo workspace for the SO-ARM100 project — integrating SDK, cloud RL training (mjlab), teleoperation, camera calibration, and LeRobot support.  
 
-### 🚶 [walka_rl_mjlab](https://github.com/thanhndv212/walka_rl_mjlab)
+### [walka_rl_mjlab](https://github.com/thanhndv212/walka_rl_mjlab)
 > RL training of the Walka biped humanoid in MuJoCo via mjlab.
 
-### 🚁 [drones-sim](https://github.com/thanhndv212/drones-sim)
+### [drones-sim](https://github.com/thanhndv212/drones-sim)
 > Simple quadcopter simulator in Python.
 
 ---
 
-## 📫 Find me on
+## Find me on
 
-[![Personal Webpage]](https://thanhndv212.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-thanhndv212-181717?logo=github)](https://github.com/thanhndv212)
-[![Linkedin](https://img.shields.io/badge/GitHub-thanhndv212-181717?logo=linkedin)](https://www.linkedin.com/in/thanh-nguyen-55b626117/)
+[![Personal Webpage](https://img.shields.io/badge/thanhndv212.github.io-green)](https://thanhndv212.github.io/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K)](https://www.linkedin.com/in/thanh-nguyen-55b626117/)
