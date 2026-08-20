@@ -27,6 +27,9 @@ I'm a robotics engineer and researcher passionate about **robot manipulation**, 
 ### [figaroh-examples](https://github.com/thanhndv212/figaroh-examples) ![GitHub Repo stars](https://img.shields.io/github/stars/thanhndv212/figaroh-examples?style=social)
 > Comprehensive examples and tutorials for the FIGAROH-PLUS library.  
 
+### [hpp-core](https://github.com/thanhndv212/figaroh-examples) ![GitHub Repo stars](https://img.shields.io/github/stars/humanoid-path-planner/hpp-core?style=social)
+> The core algorithms of the Humanoid Path Planner framework.
+ 
 ### [soarm-ws](https://github.com/thanhndv212/soarm-ws) ![GitHub Repo stars](https://img.shields.io/github/stars/thanhndv212/soarm-ws?style=social)
 > Monorepo workspace for the SO-ARM100 project — integrating SDK, cloud RL training (mjlab), teleoperation, camera calibration, and LeRobot support.  
 
