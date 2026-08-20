@@ -9,11 +9,12 @@ I'm a robotics engineer and researcher passionate about **robot system identific
 - Robot system identification frameworks for manipulators and humanoids
 - Reinforcement learning for locomotion and manipulation in MuJoCo
 - End-to-end manipulation pipelines for low-cost robot arms
+- Long-horizon task and motion planning (TAMP) for manipulation
 
 ## 🌱 Interests & Skills
 
 - **Languages:** Python, C++
-- **Topics:** System identification · Sim-to-real · Reinforcement learning · Humanoid robotics · Robot calibration
+- **Topics:** System identification · Sim-to-real · Reinforcement learning · Humanoid robotics · Robot calibration · Task and Motion Planning (TAMP)
 
 ---
 
