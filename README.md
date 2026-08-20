@@ -21,19 +21,19 @@ I'm a robotics engineer and researcher passionate about **robot manipulation**, 
 
 ## Highlighted works
 
-### [figaroh-plus](https://github.com/thanhndv212/figaroh-plus)
+### [figaroh-plus](https://github.com/thanhndv212/figaroh-plus) ![GitHub Repo stars](https://img.shields.io/github/stars/thanhndv212/figaroh-plus?style=social)
 > A system identification framework for robots — manipulators, mobile manipulators, and humanoids.  
 
-### [figaroh-examples](https://github.com/thanhndv212/figaroh-examples)
+### [figaroh-examples](https://github.com/thanhndv212/figaroh-examples) ![GitHub Repo stars](https://img.shields.io/github/stars/thanhndv212/figaroh-examples?style=social)
 > Comprehensive examples and tutorials for the FIGAROH-PLUS library.  
 
-### [soarm-ws](https://github.com/thanhndv212/soarm-ws)
+### [soarm-ws](https://github.com/thanhndv212/soarm-ws) ![GitHub Repo stars](https://img.shields.io/github/stars/thanhndv212/soarm-ws?style=social)
 > Monorepo workspace for the SO-ARM100 project — integrating SDK, cloud RL training (mjlab), teleoperation, camera calibration, and LeRobot support.  
 
-### [walka_rl_mjlab](https://github.com/thanhndv212/walka_rl_mjlab)
+### [walka_rl_mjlab](https://github.com/thanhndv212/walka_rl_mjlab) ![GitHub Repo stars](https://img.shields.io/github/stars/thanhndv212/walka_rl_mjlab?style=social)
 > RL training of the Walka biped humanoid in MuJoCo via mjlab.
 
-### [drones-sim](https://github.com/thanhndv212/drones-sim)
+### [drones-sim](https://github.com/thanhndv212/drones-sim) ![GitHub Repo stars](https://img.shields.io/github/stars/thanhndv212/drones-sim?style=social)
 > Simple quadcopter simulator in Python.
 
 ---
