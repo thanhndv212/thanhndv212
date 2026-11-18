@@ -7,10 +7,10 @@ I'm a robotics engineer and researcher passionate about **robot manipulation**, 
 ## What I'm working on
 
 - Robot system identification frameworks for manipulators and humanoids - [figaroh-plus](https://github.com/thanhndv212/figaroh-plus) ![GitHub Repo stars](https://img.shields.io/github/stars/thanhndv212/figaroh-plus?style=social), [figaroh-examples](https://github.com/thanhndv212/figaroh-examples) ![GitHub Repo stars](https://img.shields.io/github/stars/thanhndv212/figaroh-examples?style=social)
-- Reinforcement learning for locomotion and manipulation in MuJoCo - [walka_rl_mjlab](https://github.com/thanhndv212/walka_rl_mjlab) ![GitHub Repo stars](https://img.shields.io/github/stars/thanhndv212/walka_rl_mjlab?style=social)
-- End-to-end manipulation pipelines for low-cost robot arms - [soarm-ws](https://github.com/thanhndv212/soarm-ws) ![GitHub Repo stars](https://img.shields.io/github/stars/thanhndv212/soarm-ws?style=social)
 - Long-horizon task and motion planning (TAMP) for manipulation [long-tamp](https://github.com/thanhndv212/long-tamp) ![GitHub Repo stars](https://img.shields.io/github/stars/thanhndv212/long-tamp?style=social), [hpp-core](https://github.com/thanhndv212/figaroh-examples) ![GitHub Repo stars](https://img.shields.io/github/stars/humanoid-path-planner/hpp-core?style=social)
 - Simple quadcopter simulator in Python - [drones-sim](https://github.com/thanhndv212/drones-sim) ![GitHub Repo stars](https://img.shields.io/github/stars/thanhndv212/drones-sim?style=social)
+- Reinforcement learning for locomotion and manipulation in MuJoCo - [walka_rl_mjlab](https://github.com/thanhndv212/walka_rl_mjlab) ![GitHub Repo stars](https://img.shields.io/github/stars/thanhndv212/walka_rl_mjlab?style=social)
+- End-to-end manipulation pipelines for low-cost robot arms - [soarm-ws](https://github.com/thanhndv212/soarm-ws) ![GitHub Repo stars](https://img.shields.io/github/stars/thanhndv212/soarm-ws?style=social)
 ## Find me on
 
 [![Personal Webpage](https://img.shields.io/badge/thanhndv212.github.io-green)](https://thanhndv212.github.io/)
